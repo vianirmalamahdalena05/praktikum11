@@ -168,6 +168,7 @@ while True:
 ```
 
 ### Hasil Program 
-![Alt text](image.png)
+![image](https://github.com/vianirmalamahdalena05/praktikum11/assets/147572078/a2f9ec89-1d55-4219-bef7-9115033a6739)
+
 
 ### *Hasil hanya sebagian dari fungsi program*
